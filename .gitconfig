@@ -1,0 +1,8 @@
+[user]
+	username = artagnon
+	name = Ramkumar Ramachandra
+	website = http://artagnon.com
+[commit]
+	gpgsign = true
+[aliases]
+	github = artagnon
